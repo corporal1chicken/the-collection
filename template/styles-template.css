@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+    color: white;
+    /*font-family: 'Fira Code', 'IBM Plex Mono', 'Courier New', monospace;*/
+}
+
+body {
+    background-color: black;
+}
+
+#return-btn {
+    background: transparent;
+    color: white;
+    height: 60px;
+    width: 200px;        
+    font-size: 24px; 
+    cursor: pointer;
+    border: 2px solid rgb(121, 120, 120);
+    transition: border-color 0.2s ease, transform 0.2s ease, background-color 0.2s ease;
+}
+
+#topbar {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+#btn-holder {
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.subfolder-tray {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 100%; 
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.subfolder-tray.hidden-tray {
+    display: none !important;
+}
+
+.article-btn {
+    background: transparent;
+    color: white;
+    height: 40px;
+    width: 200px;        
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid grey;
+}
+
+.article-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.folder-btn {
+    background-color: #1a252f;
+    color: #ecf0f1;
+    font-weight: bold;
+    height: 40px;
+    width: 200px; 
+    font-size: 16px;
+    border: 2px solid #34495e;
+    cursor: pointer;
+}
+
+.folder-btn:hover {
+    background-color: #2c3e50;
+}
+
+#markdown-content {
+    text-align: left;         
+    max-width: 800px;        
+    margin: 3rem auto;        
+    padding: 0 20px;
+    font-size: 20px;          
+    line-height: 1.6; 
+}
+
+#markdown-content h1, 
+#markdown-content h2, 
+#markdown-content h3 {
+    text-align: center;
+    margin: 2rem 0 1rem 0;
+    text-transform: uppercase;
+}
+
+#markdown-content p {
+    margin-bottom: 1.5rem;
+}

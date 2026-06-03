@@ -1,0 +1,70 @@
+{
+  "R01": {
+    "title": "The Corridor",
+    "description": "You're one of the lucky ones who gets to know about The Corridor. If you do, you're 2 steps away from being sacraficed to it.",
+    "default_article": "../articles/(R01) The Corridor/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R01) The Corridor/(A01) Overview.md"
+      }
+    ]
+  },
+  "R02": {
+    "title": "The Collection",
+    "description": "The name you'll hear the most often. Don't disprect it, alright? Trust me, they probably don't got time for whatever you want. So just let them sweat over their maths, deal?",
+    "default_article": "../articles/(R02) The Collection/(A01) Overview.md",
+    "items": [
+      {
+        "type": "folder",
+        "name": "(F01) Partitions",
+        "articles": [
+          {"name": "> PT01 // Assurances", "path": "../articles/(R02) The Collection/(F01) Partitions/(A01) Assurances.md"},
+          {"name": "> PT02 // Alliances", "path": "../articles/(R02) The Collection/(F01) Partitions/(A02) Alliances.md"},
+          {"name": "> PT03 // Agreement", "path": "../articles/(R02) The Collection/(F01) Partitions/(A03) Agreement.md" },
+          {"name": "> PT04 // Auditing", "path": "../articles/(R02) The Collection/(F01) Partitions/(A04) Auditing.md" },
+          {"name": "> PT05 // Allocation", "path": "../articles/(R02) The Collection/(F01) Partitions/(A05) Allocation.md" },
+          {"name": "> PT06 // Abandonment", "path": "../articles/(R02) The Collection/(F01) Partitions/(A06) Abandonment.md" }
+        ]
+      },
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R02) The Collection/(A01) Overview.md"
+      },
+      {
+        "type": "file",
+        "name": "(A02) Collectors",
+        "path": "../articles/(R02) The Collection/(A02) Collectors.md"
+      }
+    ]
+  },
+  "R03": {
+    "title": "Anomlies",
+    "description": "For once, society is united against one cause.",
+    "default_article": "../articles/(R03) Anomlies/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R03) Anomlies/(A01) Overview.md"
+      },
+      {
+        "type": "file",
+        "name": "(A02) Surges",
+        "path": "../articles/(R03) Anomlies/(A02) Surges.md"
+      },
+      {
+        "type": "file",
+        "name": "(A03) Lifecycle",
+        "path": "../articles/(R03) Anomlies/(A03) Lifecycle.md"
+      },
+      {
+        "type": "file",
+        "name": "(A04) Reactions",
+        "path": "../articles/(R03) Anomlies/(A04) Reactions.md"
+      }
+    ]
+  }
+}

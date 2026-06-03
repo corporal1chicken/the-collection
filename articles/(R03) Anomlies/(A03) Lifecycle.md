@@ -1,0 +1,24 @@
+
+## Persona
+
+The lifecycle of a Layer is complex. They can go through many routes, many identities until it finally figures out who it wants to be. Touching story right? Well The Collection doesn't care. They only care about whether they're useful or whether it'll be a pain to control. Regardless, The Collection has provided a fancy table detailing the levels.
+
+Every Layer can become destabilised. Once they are, it is difficult to revert back to its previous state. When a Layer is destabilising, it violently enacts the most extreme form of emotion it was given. It's thoughts physically manifest in the Layer, or more problematically, in the subsets of the Layer.
+
+---
+
+| LEVEL                  | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Level 1: Origin        | Layers controlled directly by The Corridor, they change and disrupt often but is localised to that Layer. These Layers can never destabilise because they're essentially live destabilisations. The Corridor decides what Level 2 path this Layer goes on. Perhaps if it's left alone then it can be a bit more useful.                                                                                   |
+| Level 2A: Bearing      | They provide some resource or benefit that The Collection needs. They are stable and have the lowest risk of destabilisation.                                                                                                                                                                                                                                                                             |
+| Level 2B: Sentient     | Layers that have their own mind. They physically enact whatever emotion they were given by The Corridor. Rules and physics are often twisted, making it almost impossible for regular people to be in one. These have the highest likelihood of destabilisation. Layers often stay Sentient for the longest time. Though in more recent times, it appears external events cause Sentient Layers to occur. |
+| Level 3: Stagnant      | These are Layers that are completely frozen in its own thoughts. Objects have not met their threshold and it has effectively been hidden by The Corridor. These Layers are often used as safe havens or archives by the Collection. However, these Layers run the risk of turning people frozen. Once a Layer has become Stagnant, they often just stay like that. Very rarely do they advance.           |
+| Level 4A: Transitional | These are “normal" Layers. They simply exist, they can be travelled to by anyone. The Collection is unsure whether they can destabilise. Comforting right Well just make sure you aren't the one that discovers they can destabilise.                                                                                                                                                                     |
+| Level 4B: Dead         | Layers that are just dead. They don't do anything. They take up space. But did you think the Layer would disappear? No no, that's just too easy. Instead, this Layer begins to seep into other surrounding Layers. They require constant Indentation monitoring.                                                                                                                                          |
+| Level 5: Collapsed     | These are Layers that require indentation monitoring. They are unstable but not alive. All objects have reached their threshold and a single action can destabilise them.                                                                                                                                                                                                                                 |
+
+---
+
+## Ending
+
+The lifecycle of a Layer. They grow up so fast.. and cause reality shattering events whilst doing it.

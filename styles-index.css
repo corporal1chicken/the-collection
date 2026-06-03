@@ -1,0 +1,107 @@
+* {
+    background-color: black;
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira Code', 'IBM Plex Mono', 'Courier New', monospace;
+}
+
+#topbar {
+    border: 1px solid rgba(255, 255, 255, 0.377);
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    height: 80px;
+    width: 100%;       
+}
+
+#topbar h2 {
+    color: white;
+    margin-left: 1rem;
+}
+
+#topbar img {
+    height: 100%;
+    margin-left: auto;   
+}
+
+#sidebar {
+    position: fixed;
+    top: 80px;          
+    left: 0;
+    bottom: 0;          
+    width: 20vw;
+    min-width: 220px;  
+    max-width: 340px;   
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 1.5rem;
+}
+
+#contents {
+    display: flex;
+    flex-direction: column; 
+    gap: 4px;
+}
+
+.contents-btn{
+    background: transparent;
+    color: white;
+    height: 40px;
+    width: 100%;        
+    font-size: 14px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(121, 120, 120);
+    transition: border-color 0.2s ease, transform 0.2s ease, background-color 0.2s ease;
+}
+
+.contents-btn:hover {
+    border-color: rgb(0, 255, 89);
+    background-color: rgba(0, 255, 89, 0.178);
+    transform: translateX(26px);               
+}
+
+#main-content {
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    right: 0;
+    left: clamp(220px, 20vw, 340px); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px; 
+    font-size: 25px;
+    color: #ffffff; 
+    font-family: sans-serif; 
+}
+
+.content-action-buttons {
+    margin-top: 20px;
+}
+
+.action-btn {
+    background-color: transparent;
+    color: white;
+    border: 1px solid #555;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 0 5px;
+    width: 200px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.action-btn:hover {
+    background-color: #222;
+    border-color: #fff;
+}
+
+#contact-me{
+    padding-top: 14rem;
+    font-size: 20px;
+    font-weight: bold;
+}
