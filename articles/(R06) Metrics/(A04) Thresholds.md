@@ -1,14 +1,12 @@
-# > A04 // Thresholds
+## Persona
 
-##### Persona
+Oh, thresholds! See pay careful attention to what Forms say about this, because thresholds have deadly outcomes. There's 4 of them and every single one is bad. You do not win. You don't have "some" success. You reach your threshold and something irreversible happens. > // Humanity and > // Morality affects Forms in ways you cannot imagine. There is no good option.
 
-Oh, thresholds! See pay careful attention to what Forms say about this, because thresholds have deadly outcomes. There's 4 of them and every single one is bad. You do not win. You don't have "some" success. You reach your threshold and something irreversible happens. [> // Humanity](https://www.worldanvil.com/w/the-corridor-corporalchicken/a/3E-a02-2F2F-humanity-article) [](https://www.worldanvil.com/p/athena/article/b2818214-a613-499a-b3ff-a462f0455611/edit)and [> // Morality](https://www.worldanvil.com/w/the-corridor-corporalchicken/a/3E-a03-2F2F-morality-article) [](https://www.worldanvil.com/p/athena/article/c6eb98a1-00c3-47f8-85aa-92ebabeabcd7/edit)affects Forms in ways you cannot imagine. There is no good option.
-
-How do you know what threshold you get? Simple, the Partition of [> // Adjustment](https://www.worldanvil.com/w/the-corridor-corporalchicken/a/3E-a07-2F2F-adjustment-organization) [](https://www.worldanvil.com/p/athena/article/3fdaf6d5-380f-47c6-9599-ff34e94bb42a/edit)will tell you. And probably deal with you right then and there when they find out..
+How do you know what threshold you get? Simple, the Partition of > // Adjustment will tell you. And probably deal with you right then and there when they find out..
 
 ---
 
-##### Outcome 1
+## Outcome 1
 
 -- Requirements: High Humanity | Low Morality
 
@@ -16,7 +14,7 @@ You have a complete psychological breakdown. You love chaos, you live for it. Yo
 
 ---
 
-##### Outcome 2
+## Outcome 2
 
 -- Requirements: Low Humanity | High Morality
 
@@ -24,15 +22,15 @@ We're on outcome 2, did you think it would be special? No. You serve The Collect
 
 ---
 
-##### Outcome 3
+## Outcome 3
 
 -- Requirements: Low Humanity | Low Morality
 
-You want to live, right? You want to stay sane, right? You reject order and chaos. Do you hate them equally? If you do, you get to join the liability known as [> // The Circuits](https://www.worldanvil.com/w/the-corridor-corporalchicken/a/3E-l01-2F2F-the-circuits-article) [](https://www.worldanvil.com/p/athena/article/22e0af8f-942e-46d7-b363-9df9c349102b/edit). They are your friends, your family, even your neighbours. But you only get to join them if you survive being hunted by The Collection. Think about it. You hate the mess. Sure, everyone does. Yet you also hate the regime trying to clean up the mess, you're a threat. Does it make sense? For you, probably. For commoners? Definitely not. Oh well, enjoy your day being hunted. Until you inevitably get captured and sacrificed.
+You want to live, right? You want to stay sane, right? You reject order and chaos. Do you hate them equally? If you do, you get to join the liability known as > // The Circuits. They are your friends, your family, even your neighbours. But you only get to join them if you survive being hunted by The Collection. Think about it. You hate the mess. Sure, everyone does. Yet you also hate the regime trying to clean up the mess, you're a threat. Does it make sense? For you, probably. For commoners? Definitely not. Oh well, enjoy your day being hunted. Until you inevitably get captured and sacrificed.
 
 ---
 
-##### Outcome 4
+## Outcome 4
 
 -- Requirements: High Humanity | High Morality
 
@@ -40,6 +38,6 @@ Can't decide between chaos and order, huh? Classic, don't worry, happens to ever
 
 ---
 
-##### Ending
+## Ending
 
-That's it. Those are your thresholds. You always meet one, so choose your life carefully. Though I'll admit, my script may be wrong. It says there's an outcome 5, only achieved by the [> // Collectors](https://www.worldanvil.com/w/the-corridor-corporalchicken/a/3E-a02-2F2F-collectors-organization) [](https://www.worldanvil.com/p/athena/article/ea1ac486-6bee-4fa7-a76c-86620a21a8ae/edit). Guess they're more secret than I thought.
+That's it. Those are your thresholds. You always meet one, so choose your life carefully. Though I'll admit, my script may be wrong. It says there's an outcome 5, only achieved by the > // Collectors. Guess they're more secret than I thought.

@@ -1,6 +1,4 @@
-# > A03 // Rooms
-
-##### Persona
+## Persona
 
 The social hierachy of the world. Once your class has been determined, you very rarely change. And if you do, you're doing something very right so keep at it!
 
@@ -22,6 +20,6 @@ Your room determines everything in this world. Your respect, task. Everything.
 
 ---
 
-##### Ending
+## Ending
 
 And there you have there Rooms. The social class of the world. You can't really control it but you have to live with it.

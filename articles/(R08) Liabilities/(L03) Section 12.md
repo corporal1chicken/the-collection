@@ -1,6 +1,4 @@
-# > L03 // Section 12
-
-##### Persona
+## Persona
 
 Oh, look what we have here. If you thought the Partitions were doing a flawless job keeping everyone in the dark, think again. Eventually secrecy finds its way to the surface. Literally.
 
@@ -14,6 +12,6 @@ The Corridor is completely unpredictable. It reacts violently to people simply t
 
 ---
 
-##### Ending
+## Ending
 
 So while you’re worrying about your Transparency Pass from Allocation or avoiding a Surge, remember there's a bunch of frozen scientists in Siberia drilling a very large hole straight toward us. Let’s just hope someone figures out how to bury that Siberian project, long before they discover us. And yes. Us. Me and you. Don't try and back out now. Our problems are your problems.

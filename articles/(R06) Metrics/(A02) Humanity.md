@@ -1,6 +1,4 @@
-# > A02 // Humanity
-
-##### Persona
+## Persona
 
 It's not everyday you get judged by a reality warping system now is it? One wrong move and it's all over. No no like over over. You've heard that phrase a million times but seriously, do NOT make The Corridor mad. Its the one that judges your Humanity.
 
@@ -14,6 +12,6 @@ Now comes the part you're dreading to hear - what happens if you're not worthy t
 
 ---
 
-##### Ending
+## Ending
 
 Now you know about Humanity, You only have 7 years to prepare for it, it's a lot of pressure. You virtually have no control over it, but here's the thing: you're not supposed to!

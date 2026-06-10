@@ -1,6 +1,4 @@
-# > A01 // Actuality
-
-##### Persona
+## Persona
 
 Out of the 3 metrics, this one is the most pointless. Blunt, sure, but the truth. Actuality is a made up metric created by the everyday beings. They want to move away from the rigidity of The Collection. Something more social and more open and free. Even some of the Partitions themselves, like Assurances and Agreement, persuaded The Collection to allow this to happen.
 
@@ -12,6 +10,6 @@ However, in more recent news, The Collection has begun to take Actuality more se
 
 ---
 
-##### Ending
+## Ending
 
 You want a conclusion? Actuality is pointless. That's it. It does sound cool though, at least I think so. But cool doesn't get you points in The Corridor. Action does, that's what The Collection may do.

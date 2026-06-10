@@ -1,6 +1,4 @@
-**# > A01 // Overview
-
-##### Persona
+## Persona
 
 Society exists when the reality warping system exists just round the corner? Wow, I have to admit, I wasn't prepared for this. You know any sane person would just look at it and say "yeah.. double it and give it to the next person."
 
@@ -14,6 +12,6 @@ Now in more recent times, society has gotten a bit.. unconventional for The Coll
 
 ---
 
-##### Ending
+## Ending
 
 So uh.. just keep this on the low. Do me a favour, and keep quiet? I'm not supposed to say this but rumour has within the socials that The Collection and The Corridor are just 1 entity. So co-dependent that without one, the other can't exist. Hell, even some of the Partitions think that! Oh uh I should probably shut my mouth.. just be responsible with that information.**

@@ -1,6 +1,4 @@
-# > L01 // The Circuits
-
-##### Persona
+## Persona
 
 These guys? Ugh, fine. I'll talk about these clowns. They should be renamed to "The Circus" causing problems for my beloved The Collection. No no, form your own opinions first.
 
@@ -12,6 +10,6 @@ Where do they get their recruits? The bottom of the barrel, obviously. Most of t
 
 ---
 
-##### Ending
+## Ending
 
 Keep an eye on your Metrics, you might be qualified for a recruitment flyer. Just remember if you join them, you're a threat to the regime, and you will be hunted by The Collection until you’re captured and dragged to the sacrificial altar. But hey, at least you'll die holding a wire cutter instead of a Transparency Pass. And in The Playground, not some random Layer. My advice, choose your friends wisely.

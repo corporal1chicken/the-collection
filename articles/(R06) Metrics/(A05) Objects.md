@@ -1,6 +1,4 @@
-# > A05 // Objects
-
-##### Persona
+## Persona
 
 You would think objects are just objects right? Well the majority of them are just that.. depending on their Layer. Many objects simply exist, they're either manufactured or natural. Yet some objects from more unstable Layers tend to defy these established rules.
 
@@ -8,7 +6,7 @@ Objects also have thresholds. They can absorb the humanity and morality of peopl
 
 ---
 
-##### Outcome 1
+## Outcome 1
 
 -- Requirements: High Morality
 
@@ -16,7 +14,7 @@ Simple. They no longer work as intended. It loves The Collection so much that it
 
 ---
 
-##### Outcome 2
+## Outcome 2
 
 -- Requirements: High Humanity
 
@@ -24,6 +22,6 @@ It opens up its control to The Corridor. The Corridor controls it as a vessel of
 
 ---
 
-##### Ending
+## Ending
 
 Such complexities for such simple things. That's The Corridor for you, I guess. The Collection must monitor everything. Even down to the pen you left from your 3rd time resitting GCSE foundation maths.

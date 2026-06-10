@@ -66,5 +66,125 @@
         "path": "../articles/(R03) Anomlies/(A04) Reactions.md"
       }
     ]
+  },
+  "R04": {
+    "title": "Active Layers",
+    "description": "Desc here",
+    "default_article": "../articles/(R04) Active Layers/(LY01) The Foreground.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(LY01) The Foreground",
+        "path": "../articles/(R04) Active Layers/(LY01) The Foreground.md"
+      },
+      {
+        "type": "file",
+        "name": "(LY02) The Underground",
+        "path": "../articles/(R04) Active Layers/(LY02) The Underground.md"
+      },
+      {
+        "type": "file",
+        "name": "(LY03) The Background",
+        "path": "../articles/(R04) Active Layers/(LY03) The Background.md"
+      },
+      {
+        "type": "file",
+        "name": "(LY04) The Playground",
+        "path": "../articles/(R04) Active Layers/(LY04) The Playground.md"
+      }
+    ]
+  },
+  "R05": {
+    "title": "Society",
+    "description": "Desc here",
+    "default_article": "../articles/(R05) Society/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R05) Society/(A01) Overview.md"
+      },
+      {
+        "type": "file",
+        "name": "(A02) Rituals",
+        "path": "../articles/(R05) Society/(A02) Rituals.md"
+      },
+      {
+        "type": "file",
+        "name": "(A03) Rooms",
+        "path": "../articles/(R05) Society/(A03) Rooms.md"
+      }
+    ]
+  },
+  "R06": {
+    "title": "Metrics",
+    "description": "Desc here",
+    "default_article": "../articles/(R06) Metrics/(A01) Actuality.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Actuality",
+        "path": "../articles/(R06) Metrics/(A01) Actuality.md"
+      },
+      {
+        "type": "file",
+        "name": "(A02) Humanity",
+        "path": "../articles/(R06) Metrics/(A02) Humanity.md"
+      },
+      {
+        "type": "file",
+        "name": "(A03) Morality",
+        "path": "../articles/(R06) Metrics/(A03) Morality.md"
+      },
+      {
+        "type": "file",
+        "name": "(A04) Thresholds",
+        "path": "../articles/(R06) Metrics/(A04) Thresholds.md"
+      },
+      {
+        "type": "file",
+        "name": "(A05) Objects",
+        "path": "../articles/(R06) Metrics/(A05) Objects.md"
+      }
+    ]
+  },
+  "R07": {
+    "title": "Alternates",
+    "description": "Desc here",
+    "default_article": "../articles/(R07) Alternates/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R07) Alternates/(A01) Overview.md"
+      }
+    ]
+  },
+  "R08": {
+    "title": "Liabilities",
+    "description": "Desc here",
+    "default_article": "../articles/(R08) Liabilities/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R08) Liabilities/(A01) Overview.md"
+      },
+      {
+        "type": "file",
+        "name": "(L01) The Circuits",
+        "path": "../articles/(R08) Liabilities/(L01) The Circuits.md"
+      },
+      {
+        "type": "file",
+        "name": "(L02) Rite of the Seven",
+        "path": "../articles/(R08) Liabilities/(L02) Rite of the Seven.md"
+      },
+      {
+        "type": "file",
+        "name": "(L03) Section 12",
+        "path": "../articles/(R08) Liabilities/(L03) Section 12.md"
+      }
+    ]
   }
 }
