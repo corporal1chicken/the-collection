@@ -69,7 +69,7 @@
   },
   "R04": {
     "title": "Active Layers",
-    "description": "Desc here",
+    "description": "The emotional threats that risk destablisation and the destruction of the entire world.",
     "default_article": "../articles/(R04) Active Layers/(LY01) The Foreground.md",
     "items": [
       {
@@ -96,7 +96,7 @@
   },
   "R05": {
     "title": "Society",
-    "description": "Desc here",
+    "description": "Who's dumb idea was it to form a society around the thing that can wipe it out in mere seconds?",
     "default_article": "../articles/(R05) Society/(A01) Overview.md",
     "items": [
       {
@@ -118,7 +118,7 @@
   },
   "R06": {
     "title": "Metrics",
-    "description": "Desc here",
+    "description": "What you surface beings called 'internet points', though they're not really points. More like cosmic ratings.",
     "default_article": "../articles/(R06) Metrics/(A01) Actuality.md",
     "items": [
       {
@@ -150,7 +150,7 @@
   },
   "R07": {
     "title": "Alternates",
-    "description": "Desc here",
+    "description": "Now this is what you call capitalism at it's finest. Who knew it could exist under an authoratarion regime?",
     "default_article": "../articles/(R07) Alternates/(A01) Overview.md",
     "items": [
       {
@@ -162,7 +162,7 @@
   },
   "R08": {
     "title": "Liabilities",
-    "description": "Desc here",
+    "description": "These guys simply need to be liberated from their idealogies. Good old fashioned attrocities against them.",
     "default_article": "../articles/(R08) Liabilities/(A01) Overview.md",
     "items": [
       {
@@ -184,6 +184,23 @@
         "type": "file",
         "name": "(L03) Section 12",
         "path": "../articles/(R08) Liabilities/(L03) Section 12.md"
+      }
+    ]
+  },
+  "R09": {
+    "title": "Beings",
+    "description": "Don't bother forming personal relationships with whom you see. Just obeserve.",
+    "default_article": "../articles/(R09) Beings/(A01) Overview.md",
+    "items": [
+      {
+        "type": "file",
+        "name": "(A01) Overview",
+        "path": "../articles/(R09) Beings/(A01) Overview.md"
+      },
+      {
+        "type": "file",
+        "name": "(B01) Analyt",
+        "path": "../articles/(R09) Beings/(B01) Analyt.md"
       }
     ]
   }
